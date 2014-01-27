@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zend Framework 2   the Logger factory"
+title: "Zend Framework 2 - the Logger factory"
 description: ""
 category: Devel
 tags: [ZF2, PHP]
