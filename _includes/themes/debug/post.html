@@ -10,6 +10,9 @@
     <div class="date">
       <span>{{ page.date | date_to_long_string }}</span>
     </div>
+    
+    {% include post_social.html %}
+    
     <div class="content">
       {{ content }}
     </div>
