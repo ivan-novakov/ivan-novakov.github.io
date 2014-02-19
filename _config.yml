@@ -105,10 +105,10 @@ JB :
   analytics :
     provider : google_new
     google_new:
-      tracking_id: 'UA-48199489-1'
+      tracking_id: 'UA-48199489-2'
       domain: 'debug.cz'
     google : 
-        tracking_id : 'UA-48199489-1'
+        tracking_id : 'UA-48199489-2'
     getclicky :
       site_id : 
     mixpanel :
