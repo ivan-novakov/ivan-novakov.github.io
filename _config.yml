@@ -103,10 +103,12 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : google_new 
+    provider : google_new
+    google_new:
+      tracking_id: 'UA-48199489-1'
+      domain: 'debug.cz'
     google : 
         tracking_id : 'UA-48199489-1'
-        domain: 'debug.cz'
     getclicky :
       site_id : 
     mixpanel :
