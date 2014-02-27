@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Standalone SAML Attribute Authority With Shibboleth"
-date:   2014-01-22 10:00:00
-categories: Shibboleth
-tags: Shibboleth CESNET
+description: ""
+category: Devel
+tags: [Shibboleth, CESNET]
 excerpt: "Attribute authority is generally a database containing users’ information. This information is structured into user attributes and it is usually accessible through some kind of interface or protocol. Organizations usually have such kind of databases to store data about their users. They provide user information such as given name, family name, position, contact information etc."
 ---
 ## Introduction
